@@ -16,12 +16,12 @@ locale = "Asia/Shanghai"
 category_by_folder = False
 
 # For site
-site_name = "Maverick"
+site_name = "WrongChita'blog"
 site_logo = "${static_prefix}android-chrome-512x512.png"
 site_build_date = "2019-12-06T12:00+08:00"
-author = "AlanDecode"
-email = "hi@imalan.cn"
-author_homepage = "https://www.imalan.cn"
+author = "WrongChita"
+email = "desiasd@qq.com"
+author_homepage = "https://jesee030.github.io/Blog-With-GitHub-Boilerplate"
 description = "This is Maverick, Theme Galileo."
 key_words = ["Maverick", "AlanDecode", "Galileo", "blog"]
 language = 'english'
