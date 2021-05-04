@@ -9,18 +9,18 @@ index_page_size = 10
 archives_page_size = 30
 fetch_remote_imgs = False
 enable_jsdelivr = {
-    "enabled": True,
-    "repo": "jesee030/Blog-With-GitHub-Boilerplate@gh-pages"
+    "enabled": False,
+    "repo": "AlanDecode/Maverick@gh-pages"
 }
 locale = "Asia/Shanghai"
 category_by_folder = False
 
 # For site
-site_name = "WrongChita'blog"
+site_name = "Maverick"
 site_logo = "${static_prefix}android-chrome-512x512.png"
 site_build_date = "2019-12-06T12:00+08:00"
-author = "WrongChita"
-email = "desiasd@qq.com"
+author = "AlanDecode"
+email = "hi@imalan.cn"
 author_homepage = "https://www.imalan.cn"
 description = "This is Maverick, Theme Galileo."
 key_words = ["Maverick", "AlanDecode", "Galileo", "blog"]
